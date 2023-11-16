@@ -1,5 +1,6 @@
+'use client'
 import Image from 'next/image'
-import Header from './pages/navbar/page'
+import{ Header} from './pages/navbar/page'
 
 
 export default function Home() {
